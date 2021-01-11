@@ -1,0 +1,11 @@
+body {
+  background: white;
+  color: #323232;
+
+  margin: 0;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+    font-family: Helvetica neue, roboto;
+}
